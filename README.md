@@ -6,8 +6,8 @@ An AI-powered web application that detects whether a news article is Real or Fak
 
 ## 🚀 Live Demo
 
-🔗 Streamlit App: [https://your-app-name.streamlit.app](https://fake-news-detector-etjxyzigygl9ortvo7q28o.streamlit.app/)  
-🔗 GitHub Repository: https://github.com/your-username/fake-news-detector  
+🔗 Streamlit App: https://fake-news-detector-etjxyzigygl9ortvo7q28o.streamlit.app/ 
+🔗 GitHub Repository: https://github.com/Utsav-Azad/fake-news-detector
 
 ---
 
